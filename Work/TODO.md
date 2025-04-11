@@ -1,0 +1,21 @@
+- Precompute Store: 
+	- Update & sync job status on completion
+	- Send mail once aggregations are complete with failures if present
+	- Add requirement.txt file for prod spark cluster
+	- Analyze data and check if data is matching for all operations 
+	- Verify http request method  
+	- Add profile check for creating scheduling jobs with (list of profiles in config)
+- Priority: 
+	- Data Eval DONE
+	- Report Binding & test (mongo queries + api's)
+	- Sending precompute request when we receive extraction request
+	- Profile list (didn't consider business profile config (needs to be included))
+### 4/9
+- Update to 20 nodes for spark cluster DONE
+- Send message for ga4 processing  DONE
+- Verify the data is correct  DONE [[Secondobs]]
+- Verfiy instant values countryDevice (device) faqDevice
+- Create mongo queries inprogress
+- Clean up the prompt config
+- Verify if all the data is getting binded 
+

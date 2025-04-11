@@ -1,0 +1,3 @@
+-  Check this itemPurchased, itemRevenue kpi it is having date value but no actual value ( Happening bc it is null ..... )
+- These were the previous observations on initial run:
+	- [[Observations]]

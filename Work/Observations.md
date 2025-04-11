@@ -1,0 +1,12 @@
+Observations after initial run:
+- Both countryDevice operation and Overviewdevice have the same dimension name 
+- Both OrganicByPageDevice & TrafficByTopVisitedPages is having the same dimension name (page)
+	- And a kpi object is not having a source differentiator so this could be problematic (but we might be querying by the kpi so maybe it wouldnt be ?)
+- Instant values are not in order ( meaning like the dates are not in order prolly bc we are doing some type of ordering in the sql statement => all are having the same corresponding date range ex: the first value will be 06/03 and so on ....) 
+- When there is no compare value it doesnt put an instance of the filed in mongo. (this isnt a problem but an observation)
+- No faqDevice & faqPage for profileAlias: "391015.1" ? but there for the other profile **2803.1** (prolly bc there is no data)
+- Lot of gsc is not having previous/compare values 
+- Check this itemPurchased, itemRevenue kpi it is having date value but no actual value ( Happening bc it is null ..... )
+- Both avgsessionduration and v2 are having almost same value just decimal change 
+- In channel websiteconversionrate values are in like 0.x values ... cross verify 
+- No otaBooking data for either profiles ( No data in the source)

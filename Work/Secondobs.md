@@ -1,0 +1,3 @@
+- We are rounding 2 decimal points so if ctr is like 0.0012 => 0
+- 391015.1 is not having faqPage & faqDevice data in source
+- 

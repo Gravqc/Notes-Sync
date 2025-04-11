@@ -1,0 +1,199 @@
+{
+  "main": {
+    "id": "161add0fd237a32d",
+    "type": "split",
+    "children": [
+      {
+        "id": "4f4e51f2408e7dce",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "61f94010a8b47625",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily Notes/2025/2025-04-11.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-04-11"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d28532c7f351e19b",
+    "type": "split",
+    "children": [
+      {
+        "id": "e38c765207d98ac2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "087723a2347940b0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "48e719e4f3699c4e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "d78768f9a4bd7eef",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0a319aa65a39306b",
+    "type": "split",
+    "children": [
+      {
+        "id": "5a6ec260c411c99f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b2816e499bbf9f65",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Precompute Store.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Precompute Store"
+            }
+          },
+          {
+            "id": "3f6b70e5c2e0c0da",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Precompute Store.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Precompute Store"
+            }
+          },
+          {
+            "id": "1e2d8a20f69cf7a5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "be376e76fbf154d3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Daily Notes/2025/2025-04-11.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 2025-04-11"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 235.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "61f94010a8b47625",
+  "lastOpenFiles": [
+    "Daily Notes/2025/2025-04-10.md",
+    "Daily Notes/2025/2025-04-11.md",
+    "Work/Precompute Store.md",
+    "Work/Problems.md",
+    "Work/Prompt Mongo.md",
+    "Work/POC.md",
+    "Questions.md",
+    "Work/LookOutForInProd.md",
+    "Work/TODO.md",
+    "Templates/Daily Note Template.md",
+    "Daily Notes/2025",
+    "Daily Notes/2025-04-10.md",
+    "2025-04-10.md",
+    "Daily Notes/Daily Note Template",
+    "Work/Observations.md",
+    "Templates",
+    "Daily Notes",
+    "Work",
+    "Templates/Daily Template.md",
+    "Templates",
+    "Untitled 1.md",
+    "Untitled.canvas",
+    "Work/Secondobs.md",
+    "Welcome.md"
+  ]
+}

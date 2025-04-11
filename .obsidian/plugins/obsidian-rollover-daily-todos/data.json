@@ -1,0 +1,7 @@
+{
+  "templateHeading": "### 📋 Tasks:",
+  "deleteOnComplete": false,
+  "removeEmptyTodos": false,
+  "rolloverChildren": true,
+  "rolloverOnFileCreate": true
+}
