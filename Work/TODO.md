@@ -11,11 +11,11 @@
 	- Verify http request method  
 	- Profile list (didn't consider business profile config (needs to be included))
 ### 4/9
-- Update to 20 nodes for spark cluster DONE
-- Send message for ga4 processing  DONE
-- Verify the data is correct  DONE [[Secondobs]]
-- Verfiy instant values countryDevice (device) faqDevice
-- Create mongo queries inprogress
-- Clean up the prompt config
-- Verify if all the data is getting binded 
+-[x] Update to 20 nodes for spark cluster DONE
+-[x] Send message for ga4 processing  DONE
+-[x] Verify the data is correct  DONE [[Secondobs]]
+-[] Verfiy instant values countryDevice (device) faqDevice
+-[x]Create mongo queries inprogress
+-[x] Clean up the prompt config
+-[x] Verify if all the data is getting binded 
 
