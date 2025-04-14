@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/2025/2025-04-11.md",
+                "file": "Daily Notes/2025/2025-04-14.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-04-11"
+              "title": "2025-04-14"
             }
           }
         ]
@@ -171,15 +171,17 @@
   },
   "active": "61f94010a8b47625",
   "lastOpenFiles": [
-    "Daily Notes/2025/2025-04-10.md",
-    "Daily Notes/2025/2025-04-11.md",
     "Work/Precompute Store.md",
-    "Work/Problems.md",
+    "Work/TODO.md",
+    "Work/Secondobs.md",
+    "Daily Notes/2025/2025-04-14.md",
+    "Daily Notes/2025/2025-04-11.md",
     "Work/Prompt Mongo.md",
     "Work/POC.md",
+    "Daily Notes/2025/2025-04-10.md",
+    "Work/Problems.md",
     "Questions.md",
     "Work/LookOutForInProd.md",
-    "Work/TODO.md",
     "Templates/Daily Note Template.md",
     "Daily Notes/2025",
     "Daily Notes/2025-04-10.md",
@@ -193,7 +195,6 @@
     "Templates",
     "Untitled 1.md",
     "Untitled.canvas",
-    "Work/Secondobs.md",
     "Welcome.md"
   ]
 }

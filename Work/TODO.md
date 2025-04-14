@@ -3,12 +3,12 @@
 	- Send mail once aggregations are complete with failures if present
 	- Add requirement.txt file for prod spark cluster
 	- Analyze data and check if data is matching for all operations 
-	- Verify http request method  
 	- Add profile check for creating scheduling jobs with (list of profiles in config)
 - Priority: 
-	- Data Eval DONE
+	- Data Eval
 	- Report Binding & test (mongo queries + api's)
 	- Sending precompute request when we receive extraction request
+	- Verify http request method  
 	- Profile list (didn't consider business profile config (needs to be included))
 ### 4/9
 - Update to 20 nodes for spark cluster DONE
