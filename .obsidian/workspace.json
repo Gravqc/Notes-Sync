@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "100 Daily Notes/2025/2025-04-21.md",
+                "file": "Ml Algorithms.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-04-21"
+              "title": "Ml Algorithms"
             }
           }
         ]
@@ -171,15 +171,17 @@
   },
   "active": "c49e837498e522dc",
   "lastOpenFiles": [
-    "300 Work/302 Precompute Service/SyncExtractionAndAggregation.md",
+    "300 Work/304 Courses/304.1 Introduction to AI/How do Machines Learn.md",
+    "300 Work/304 Courses/304.1 Introduction to AI/Machine Learning.md",
+    "Ml Algorithms.md",
+    "Common AI Systems.md",
+    "300 Work/304 Courses/304.1 Introduction to AI/Intro to AI.md",
     "100 Daily Notes/2025/2025-04-21.md",
+    "300 Work/302 Precompute Service/SyncExtractionAndAggregation.md",
     "100 Daily Notes/2025/2025-04-18.md",
     "100 Daily Notes/2025/2025-04-17.md",
     "100 Daily Notes/2025/2025-04-16.md",
-    "300 Work/304 Courses/304.1 Introduction to AI/Intro to AI.md",
     "200 Templates/Daily Note Template.md",
-    "300 Work/304 Courses/304.1 Introduction to AI/Machine Learning.md",
-    "300 Work/304 Courses/304.1 Introduction to AI/How do Machines Learn.md",
     "300 Work/304 Courses/304.1 Introduction to AI",
     "Training.md",
     "300 Work/304 Courses/304.1 Introduction to AI/Artificial Neural Networks.md",
@@ -200,8 +202,6 @@
     "300 Work/302 Precompute Service/Observations.md",
     "300 Work/302 Precompute Service/TODO.md",
     "Work/Secondobs.md",
-    "300 Work/302 Precompute Service/POC.md",
-    "Work/Problems.md",
     "100 Daily Notes/2025",
     "Daily Notes/Daily Note Template",
     "200 Templates",

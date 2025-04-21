@@ -1,30 +1,11 @@
 - Machine learning systems learn from input data (basically training systems for pattern matching)
 	- These systems are still just learning patterns (limitation)
 - [[Artificial Neural Networks]]
-#### Common AI Systems:
-- Searching for patterns in data:
-	- Machine learning systems feed on data to learn new things.
-- Robotics:
-	- Machines that behave like humans.
-	- Robotics + Ml = New options 
-		- ex: Self-driving vehicles 
-			- cars need to understand when to turn left or right this is the hard part
-			- Why this is a data problem not a robotics problem
-		- Program a robot to act intelligently:
-			- Room cleaning robot uses general AI.
-- Natural Language Processing:
-	- AI programs do something like nlp.. basically talk with the machine like how you would talk to a human.
-	- Machine needs to understand human language (use ANN)
-		- google gives email as a free service so they can have that natural language data for their systems.
-	- For a system to be considered intelligent it needs to be able to communicate with humans.
-- Internet of Things:
-	- Alexa: Collect data use that data for a recommendation system based on day-to-day conversation.
-	- Smart watch: Pattern matching of health data... 
-- Generative Systems:
-	- Dalle-2: Image generation system (openAI)
-	- Chatgpt: Trained with ml on a deep ANN; is flexible with general knowledge.
-		- Trained on trillions of connections of words.
+#### [[Common AI Systems]]:
 
 #### [[How do Machines Learn]]
 #### [[Data Models]]
+
+#### 
+
 
