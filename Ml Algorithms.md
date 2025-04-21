@@ -1,4 +1,0 @@
-- K- Nearest Algo.
-- K- Means Clustering
-- Regression
-- Naive Bayes

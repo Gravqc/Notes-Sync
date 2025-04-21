@@ -1,3 +1,3 @@
-AI system that mimics the structure of the human brain
+A type of machine-learning that uses the structure like the human brain to break down massive datasets.
 [[BackPropogation]]
 
