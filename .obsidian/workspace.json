@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "4f4e51f2408e7dce",
+        "id": "07e052d935b59dfc",
         "type": "tabs",
         "children": [
           {
-            "id": "61f94010a8b47625",
+            "id": "c49e837498e522dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/2025/2025-04-14.md",
+                "file": "100 Daily Notes/2025/2025-04-21.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-04-14"
+              "title": "2025-04-21"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Precompute Store.md",
+                "file": "100 Daily Notes/2025/2025-04-21.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Precompute Store"
+              "title": "Backlinks for 2025-04-21"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Precompute Store.md",
+                "file": "100 Daily Notes/2025/2025-04-21.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Precompute Store"
+              "title": "Outgoing links from 2025-04-21"
             }
           },
           {
@@ -152,7 +152,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -169,32 +169,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "61f94010a8b47625",
+  "active": "c49e837498e522dc",
   "lastOpenFiles": [
-    "Work/Precompute Store.md",
-    "Daily Notes/2025/2025-04-14.md",
-    "Work/TODO.md",
+    "300 Work/302 Precompute Service/SyncExtractionAndAggregation.md",
+    "100 Daily Notes/2025/2025-04-21.md",
+    "100 Daily Notes/2025/2025-04-18.md",
+    "100 Daily Notes/2025/2025-04-17.md",
+    "100 Daily Notes/2025/2025-04-16.md",
+    "300 Work/304 Courses/304.1 Introduction to AI/Intro to AI.md",
+    "200 Templates/Daily Note Template.md",
+    "300 Work/304 Courses/304.1 Introduction to AI/Machine Learning.md",
+    "300 Work/304 Courses/304.1 Introduction to AI/How do Machines Learn.md",
+    "300 Work/304 Courses/304.1 Introduction to AI",
+    "Training.md",
+    "300 Work/304 Courses/304.1 Introduction to AI/Artificial Neural Networks.md",
+    "Artificial Neural Networs.md",
+    "300 Work/304 Courses/304.1 Introduction to AI/Upskilling.md",
+    "300 Work/304 Courses",
+    "300 Work/303 AI Insights",
+    "300 Work/301 Upgrade .Net8",
+    "300 Work/302 Precompute Service/LookOutForInProd.md",
+    "300 Work/302 Precompute Service",
+    "100 Daily Notes/2025/2025-04-15.md",
+    "300 Work/302 Precompute Service/ProfileDetails.md",
+    "300 Work/302 Precompute Service/Precompute Store.md",
+    "300 Work/302 Precompute Service/Prompt Mongo.md",
+    "100 Daily Notes/2025/2025-04-10.md",
+    "100 Daily Notes/2025/2025-04-11.md",
+    "100 Daily Notes/2025/2025-04-14.md",
+    "300 Work/302 Precompute Service/Observations.md",
+    "300 Work/302 Precompute Service/TODO.md",
     "Work/Secondobs.md",
-    "Daily Notes/2025/2025-04-11.md",
-    "Work/Prompt Mongo.md",
-    "Work/POC.md",
-    "Daily Notes/2025/2025-04-10.md",
+    "300 Work/302 Precompute Service/POC.md",
     "Work/Problems.md",
-    "Questions.md",
-    "Work/LookOutForInProd.md",
-    "Templates/Daily Note Template.md",
-    "Daily Notes/2025",
-    "Daily Notes/2025-04-10.md",
-    "2025-04-10.md",
+    "100 Daily Notes/2025",
     "Daily Notes/Daily Note Template",
-    "Work/Observations.md",
-    "Templates",
-    "Daily Notes",
-    "Work",
-    "Templates/Daily Template.md",
-    "Templates",
-    "Untitled 1.md",
-    "Untitled.canvas",
-    "Welcome.md"
+    "200 Templates",
+    "100 Daily Notes",
+    "300 Work",
+    "Untitled.canvas"
   ]
 }

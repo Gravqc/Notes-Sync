@@ -4,3 +4,6 @@
 
 ### 🔁 Habit Tracker:
 - [ ] Exercise
+
+#### Notes:
+

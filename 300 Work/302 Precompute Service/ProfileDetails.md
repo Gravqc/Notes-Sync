@@ -1,0 +1,3 @@
+- Sample Message for worker in reportwizard (portola)
+	- {"ReportId":"_ai_insights","JobId":"cd2788fb-75d0-4968-a132-050c2e282db3","AgencyId":1,"ProfileAlias":"391015.1","ProfileId":162150,"StartDate":"2025-03-01T00:00:00","EndDate":"2025-03-31T00:00:00","RetryCount":0,"Status":"_todo","QueuedTime":null,"ProcessStartTime":null,"ProcessEndTime":null,"ExtractionDate":"2025-02-26T08:23:37.233"}
+	- {"ReportId":"_ai_insights","JobId":"cd2788fb-75d0-4968-a132-050c2e282db3","AgencyId":1,"ProfileAlias":"2803.1","ProfileId":11480,"StartDate":"2025-03-01T00:00:00","EndDate":"2025-03-31T00:00:00","RetryCount":0,"Status":"_todo","QueuedTime":null,"ProcessStartTime":null,"ProcessEndTime":null,"ExtractionDate":"2025-02-26T08:23:37.233","Options":{"PromptPath":"test"}}
