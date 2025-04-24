@@ -1,5 +1,5 @@
 - Gsc Page Data:
-	- Kpi's: Impressions, Clicks, Ctr, Position
+	- Kpi's: Impressions, Clicks, Ctr, Position 
 - Gsc EventPage Data
 	- Kpi's: Impressions
 - Gsc FaqPage Data

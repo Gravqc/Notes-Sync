@@ -11,10 +11,14 @@
             "id": "101c9614ad47e200",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "100 Daily Notes/2025/2025-04-24.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "2025-04-24"
             }
           }
         ]
@@ -165,6 +169,17 @@
   },
   "active": "101c9614ad47e200",
   "lastOpenFiles": [
+    "300 Work/302 Precompute Service/Prompt Mongo.md",
+    "300 Work/302 Precompute Service/Precompute Store.md",
+    "100 Daily Notes/2025/2025-04-24.md",
+    "100 Daily Notes/2025/2025-04-23.md",
+    "100 Daily Notes/2025/2025-04-22.md",
+    "300 Work/302 Precompute Service/SyncExtractionAndAggregation.md",
+    "300 Work/302 Precompute Service/TODO.md",
+    "Secondobs.md",
+    "300 Work/302 Precompute Service/LookOutForInProd.md",
+    "300 Work/302 Precompute Service/Observations.md",
+    "100 Daily Notes/2025/2025-04-21.md",
     "300 Work/304 Courses/304.1 Introduction to AI/Ml Algorithms.md",
     "300 Work/304 Courses/304.1 Introduction to AI/Overfitting & Underfitting.md",
     "300 Work/304 Courses/304.1 Introduction to AI/Bias & Variance.md",
@@ -176,26 +191,15 @@
     "300 Work/304 Courses/304.1 Introduction to AI/Unsupervised Learning.md",
     "300 Work/304 Courses/304.1 Introduction to AI/Supervised Learning.md",
     "300 Work/304 Courses/304.1 Introduction to AI/K nearest neighbour.md",
-    "100 Daily Notes/2025/2025-04-21.md",
-    "300 Work/302 Precompute Service/SyncExtractionAndAggregation.md",
     "100 Daily Notes/2025/2025-04-18.md",
     "100 Daily Notes/2025/2025-04-17.md",
     "100 Daily Notes/2025/2025-04-16.md",
     "200 Templates/Daily Note Template.md",
     "300 Work/304 Courses/304.1 Introduction to AI",
-    "Training.md",
-    "Artificial Neural Networs.md",
-    "300 Work/304 Courses/304.1 Introduction to AI/Upskilling.md",
     "300 Work/304 Courses",
     "300 Work/303 AI Insights",
     "300 Work/301 Upgrade .Net8",
-    "300 Work/302 Precompute Service/LookOutForInProd.md",
     "300 Work/302 Precompute Service",
-    "100 Daily Notes/2025/2025-04-15.md",
-    "300 Work/302 Precompute Service/ProfileDetails.md",
-    "300 Work/302 Precompute Service/Precompute Store.md",
-    "300 Work/302 Precompute Service/Prompt Mongo.md",
-    "100 Daily Notes/2025/2025-04-10.md",
     "100 Daily Notes/2025",
     "Daily Notes/Daily Note Template",
     "200 Templates",
