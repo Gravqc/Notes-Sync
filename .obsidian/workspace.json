@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "91dd7b8d9c233192",
+        "id": "e6905ae826ec188c",
         "type": "tabs",
         "children": [
           {
-            "id": "101c9614ad47e200",
+            "id": "20066d4e9f77b6ba",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "100 Daily Notes/2025/2025-04-25.md",
+                "file": "400 Projects/Wisp/Authentication Design.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-04-25"
+              "title": "Authentication Design"
             }
           }
         ]
@@ -94,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "100 Daily Notes/2025/2025-04-25.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2025-04-25"
+              "title": "Backlinks"
             }
           },
           {
@@ -168,34 +167,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "101c9614ad47e200",
+  "active": "20066d4e9f77b6ba",
   "lastOpenFiles": [
-    "300 Work/302 Precompute Service/SyncExtractionAndAggregation.md",
-    "300 Work/302 Precompute Service/Precompute Store.md",
+    "400 Projects/Wisp/Wisp System Architecture.md",
+    "400 Projects/Wisp/Wisp.md",
+    "400 Projects/Wisp/Todo.md",
+    "400 Projects/Wisp/Desert Service Overview.md",
+    "400 Projects/Wisp/Oasis Service Overview.md",
+    "100 Daily Notes/2025/2025-04-26.md",
+    "400 Projects/Wisp/Oasis System Decisions.md",
+    "400 Projects/Wisp/Authentication Design.md",
+    "400 Projects/Wisp/Desert.md",
+    "400 Projects/Wisp/Email Privacy Strategy.md",
+    "400 Projects/Wisp/Security Best Practices.md",
+    "Session Management.md",
+    "400 Projects/Wisp/Wisp Credentials.md",
     "100 Daily Notes/2025/2025-04-25.md",
     "100 Daily Notes/2025/2025-04-24.md",
+    "400 Projects/Wisp",
+    "400 Projects",
     "300 Work/302 Precompute Service/Prompt Mongo.md",
+    "300 Work/302 Precompute Service/Precompute Store.md",
     "100 Daily Notes/2025/2025-04-23.md",
     "100 Daily Notes/2025/2025-04-22.md",
+    "300 Work/302 Precompute Service/SyncExtractionAndAggregation.md",
     "300 Work/302 Precompute Service/TODO.md",
     "Secondobs.md",
     "300 Work/302 Precompute Service/LookOutForInProd.md",
     "300 Work/302 Precompute Service/Observations.md",
     "100 Daily Notes/2025/2025-04-21.md",
     "300 Work/304 Courses/304.1 Introduction to AI/Ml Algorithms.md",
-    "300 Work/304 Courses/304.1 Introduction to AI/Overfitting & Underfitting.md",
-    "300 Work/304 Courses/304.1 Introduction to AI/Bias & Variance.md",
-    "300 Work/304 Courses/304.1 Introduction to AI/How do Machines Learn.md",
-    "300 Work/304 Courses/304.1 Introduction to AI/Machine Learning.md",
-    "300 Work/304 Courses/304.1 Introduction to AI/Common AI Systems.md",
-    "300 Work/304 Courses/304.1 Introduction to AI/Intro to AI.md",
-    "300 Work/304 Courses/304.1 Introduction to AI/Artificial Neural Networks.md",
-    "300 Work/304 Courses/304.1 Introduction to AI/Unsupervised Learning.md",
-    "300 Work/304 Courses/304.1 Introduction to AI/Supervised Learning.md",
-    "300 Work/304 Courses/304.1 Introduction to AI/K nearest neighbour.md",
-    "100 Daily Notes/2025/2025-04-18.md",
-    "100 Daily Notes/2025/2025-04-17.md",
-    "100 Daily Notes/2025/2025-04-16.md",
     "300 Work/304 Courses/304.1 Introduction to AI",
     "300 Work/304 Courses",
     "300 Work/303 AI Insights",
@@ -204,8 +205,6 @@
     "100 Daily Notes/2025",
     "Daily Notes/Daily Note Template",
     "200 Templates",
-    "100 Daily Notes",
-    "300 Work",
     "Untitled.canvas"
   ]
 }
