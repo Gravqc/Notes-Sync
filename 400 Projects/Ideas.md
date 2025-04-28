@@ -1,0 +1,1 @@
+- Take a ss and then send that shot to llm and it will summarize something.
