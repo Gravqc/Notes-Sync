@@ -1,3 +1,4 @@
--  Check this itemPurchased, itemRevenue kpi it is having date value but no actual value ( Happening bc it is null ..... )
-- These were the previous observations on initial run:
-	- [[Observations]]
+- Change in mongo spark connector
+- Change read and write options
+- Get a list of ipaddress for spark executors
+- Convert mongo uri to not have srv
