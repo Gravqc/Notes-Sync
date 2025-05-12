@@ -1,4 +1,0 @@
-- Change in mongo spark connector
-- Change read and write options
-- Get a list of ipaddress for spark executors
-- Convert mongo uri to not have srv

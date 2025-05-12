@@ -8,16 +8,49 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8ee6e91965cbf3a8",
+            "id": "3ea81921727e052e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "300 Work/302 Precompute Service/Precompute Service.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Precompute Service"
+            }
+          },
+          {
+            "id": "28a05d83367b6284",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "300 Work/301 Upgarding .Net 8/Upgrading to .net8.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Upgrading to .net8"
+            }
+          },
+          {
+            "id": "687154ef7870b2bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "300 Work/303 AI Insights/AI Insights.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "AI Insights"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -163,34 +196,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "087723a2347940b0",
+  "active": "687154ef7870b2bc",
   "lastOpenFiles": [
-    "Untitled.md",
-    "300 Work/302 Precompute Service/testing.md",
-    "300 Work/302 Precompute Service/Precompute Store.md",
+    "300 Work/302 Precompute Service/Production Issues.md",
+    "300 Work/303 AI Insights/AI Insights.md",
+    "300 Work/301 Upgarding .Net 8/Upgrading to .net8.md",
+    "300 Work/303 AI Insights",
+    "300 Work/302 Precompute Service/Precompute Service.md",
+    "300 Work/301 Upgarding .Net 8",
+    "300 Work/302 Precompute Service/Service Bus Sample Msg.md",
+    "300 Work/302 Precompute Service/SQL Query For Test.md",
+    "300 Work/302 Precompute Service/SyncExtractionAndAggregation.md",
+    "300 Work/302 Precompute Service/TODO.md",
+    "300 Work/302 Precompute Service/Prompt Mongo.md",
+    "300 Work/302 Precompute Service/Config.md",
+    "300 Work/302 Precompute Service/LookOutForInProd.md",
+    "300 Work/302 Precompute Service/Observations.md",
+    "300 Work/302 Precompute Service/POC.md",
     "100 Daily Notes/2025/2025-05-08.md",
+    "100 Daily Notes/2025/2025-05-06.md",
+    "400 Projects/401 Wisp/Desert Service Overview.md",
+    "400 Projects/401 Wisp/Authentication Design.md",
+    "400 Projects/Ideas.md",
+    "BackPropogation.md",
     "100 Daily Notes/2025/2025-04-10.md",
     "100 Daily Notes/2025/2025-04-29.md",
     "100 Daily Notes/2025/2025-04-30.md",
     "100 Daily Notes/2025/2025-05-05.md",
-    "100 Daily Notes/2025/2025-05-06.md",
-    "300 Work/302 Precompute Service/SyncExtractionAndAggregation.md",
-    "300 Work/302 Precompute Service/Config.md",
-    "300 Work/302 Precompute Service/LookOutForInProd.md",
-    "400 Projects/401 Wisp/Authentication Design.md",
-    "300 Work/302 Precompute Service/Prompt Mongo.md",
     "100 Daily Notes/2025/2025-04-28.md",
     "100 Daily Notes/2025/2025-04-26.md",
     "400 Projects/401 Wisp/Email Privacy Strategy.md",
-    "400 Projects/401 Wisp/Wisp System Architecture.md",
-    "400 Projects/401 Wisp/Desert Service Overview.md",
-    "400 Projects/401 Wisp/Oasis Service Overview.md",
-    "400 Projects/401 Wisp/Wisp.md",
-    "400 Projects/401 Wisp/Todo.md",
-    "400 Projects/Ideas.md",
-    "400 Projects/401 Wisp/Oasis System Decisions.md",
-    "400 Projects/Wisp/Desert.md",
-    "400 Projects/401 Wisp/Security Best Practices.md",
     "400 Projects/401 Wisp",
     "400 Projects",
     "300 Work/304 Courses/304.1 Introduction to AI",
@@ -199,8 +234,6 @@
     "300 Work/301 Upgrade .Net8",
     "300 Work/302 Precompute Service",
     "100 Daily Notes/2025",
-    "Daily Notes/Daily Note Template",
-    "200 Templates",
     "Untitled.canvas"
   ]
 }
