@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "e6905ae826ec188c",
+        "id": "0cd9dcde7f74ff0a",
         "type": "tabs",
         "children": [
           {
-            "id": "947f9e8f8dda8b75",
+            "id": "8ee6e91965cbf3a8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "300 Work/302 Precompute Service/Precompute Store.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Precompute Store"
+              "title": "New tab"
             }
           }
         ]
@@ -167,19 +163,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "947f9e8f8dda8b75",
+  "active": "087723a2347940b0",
   "lastOpenFiles": [
-    "300 Work/302 Precompute Service/Config.md",
+    "Untitled.md",
+    "300 Work/302 Precompute Service/testing.md",
     "300 Work/302 Precompute Service/Precompute Store.md",
+    "100 Daily Notes/2025/2025-05-08.md",
+    "100 Daily Notes/2025/2025-04-10.md",
+    "100 Daily Notes/2025/2025-04-29.md",
     "100 Daily Notes/2025/2025-04-30.md",
+    "100 Daily Notes/2025/2025-05-05.md",
+    "100 Daily Notes/2025/2025-05-06.md",
+    "300 Work/302 Precompute Service/SyncExtractionAndAggregation.md",
+    "300 Work/302 Precompute Service/Config.md",
     "300 Work/302 Precompute Service/LookOutForInProd.md",
     "400 Projects/401 Wisp/Authentication Design.md",
-    "300 Work/302 Precompute Service/testing.md",
-    "100 Daily Notes/2025/2025-04-29.md",
     "300 Work/302 Precompute Service/Prompt Mongo.md",
     "100 Daily Notes/2025/2025-04-28.md",
     "100 Daily Notes/2025/2025-04-26.md",
-    "300 Work/302 Precompute Service/SyncExtractionAndAggregation.md",
     "400 Projects/401 Wisp/Email Privacy Strategy.md",
     "400 Projects/401 Wisp/Wisp System Architecture.md",
     "400 Projects/401 Wisp/Desert Service Overview.md",
@@ -190,13 +191,8 @@
     "400 Projects/401 Wisp/Oasis System Decisions.md",
     "400 Projects/Wisp/Desert.md",
     "400 Projects/401 Wisp/Security Best Practices.md",
-    "Session Management.md",
-    "400 Projects/401 Wisp/Wisp Credentials.md",
-    "100 Daily Notes/2025/2025-04-25.md",
-    "100 Daily Notes/2025/2025-04-24.md",
     "400 Projects/401 Wisp",
     "400 Projects",
-    "100 Daily Notes/2025/2025-04-23.md",
     "300 Work/304 Courses/304.1 Introduction to AI",
     "300 Work/304 Courses",
     "300 Work/303 AI Insights",
